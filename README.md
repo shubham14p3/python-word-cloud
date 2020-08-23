@@ -1,65 +1,71 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Python Word Cloud 
 
-# Project Name
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-> One paragraph statement about the project.
+Simple challenge in creating word cloud with help with pyhton.
+
+## Basic Calc Screen
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+## Built Wit
 
-## Built With
+### Developing tools
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+- Python
+- Data Science
+- Github
 
 ### Deployment
 
+- Python (Jupyter Notebook)
+
+## Getting Started
+
+To get started with the app, please follow these steps:
+
+- Navigate to the folder where you would like to save the game.
+
+- Open your terminal by right-clicking, and opening the command line of your choice.
+
+- Clone the repo by typing:
+
+```
+$ git clone https://github.com/shubham14p3/python-word-cloud.git
+```
+
+- Access the newly created folder by typing:
+
+```
+$ cd react-calculator
+```
+
+- Open Anaconda followed by jupyter notebook:
+
+```
+run all cell
+```
+
+- You should start seeing the results.
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Shubham Raj**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@ShubhamRaj](https://github.com/shubham14p3)
+- Linkedin: [Shubham14p3](https://www.linkedin.com/in/shubham14p3/)
 
-👤 **Author2**
+## Future Upgrades
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Conveting basic calculator to scientific calculator.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/shubham14p3/python-word-cloud/issues).
 
 ## Show your support
 
@@ -67,10 +73,16 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Project requested by [G Gautami].
+- The use of her property is solely for educational purposes.
 
-## 📝 License
+<!-- MARKDOWN LINKS & IMAGES -->
 
-This project is [MIT](lic.url) licensed.
+[contributors-shield]: https://img.shields.io/github/contributors/shubham14p3/python-word-cloud.svg?style=flat-square
+[contributors-url]: https://github.com/shubham14p3/python-word-cloud/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shubham14p3/python-word-cloud.svg?style=flat-square
+[forks-url]: https://github.com/shubham14p3/python-word-cloud/network/members
+[stars-shield]: https://img.shields.io/github/stars/shubham14p3/python-word-cloud.svg?style=flat-square
+[stars-url]: https://github.com/shubham14p3/python-word-cloud/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shubham14p3/python-word-cloud.svg?style=flat-square
+[issues-url]: https://github.com/shubham14p3/python-word-cloud/issues

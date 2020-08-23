@@ -40,7 +40,7 @@ $ git clone https://github.com/shubham14p3/python-word-cloud.git
 - Access the newly created folder by typing:
 
 ```
-$ cd react-calculator
+$ cd python-word-cloud
 ```
 
 - Open Anaconda followed by jupyter notebook:
